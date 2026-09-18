@@ -6,6 +6,7 @@ The project provides separate sections for registering blood donors, finding don
 
 Live Website Link
 https://danyaramesh1647-lang.github.io/Blood-Donation-management-portal-/🩸
+
 📌 Project Overview
 
 Blood donation plays an important role in supporting patients during emergencies, surgeries, and medical treatments. LifeDrop provides a digital interface that connects potential donors and blood seekers through an organized blood donation portal.
